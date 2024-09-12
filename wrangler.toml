@@ -1,3 +1,4 @@
+name = "web-tldraw-com"
 main = "worker/worker.ts"
 compatibility_date = "2024-07-01"
 
@@ -20,4 +21,4 @@ new_classes = ["TldrawDurableObject"]
 [[r2_buckets]]
 binding = 'TLDRAW_BUCKET'
 bucket_name = 'tldraw-content'
-preview_bucket_name = 'tldraw-content-preview'
+# preview_bucket_name = 'tldraw-content-preview'
