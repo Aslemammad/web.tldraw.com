@@ -1,4 +1,4 @@
-[Stackblitz link](https://stackblitz.com/github.com/Aslemammad/web.tldraw.com/settings)
+[Stackblitz link](https://stackblitz.com/github.com/Aslemammad/web.tldraw.com/)
 
 # tldraw sync server
 
